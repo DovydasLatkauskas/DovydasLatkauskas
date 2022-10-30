@@ -3,7 +3,7 @@
 
 - 👨‍💻 Experience using **C#, Python, Haskell**
 
-- 🌱 I’m currently learning **Java, Java spring, Haskell**
+- 🌱 I’m currently learning **Java, Java spring**
 
 - 📝 Additional skills **Git, SQL**
 
