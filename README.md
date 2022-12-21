@@ -3,11 +3,11 @@
 
 - 👨‍💻 Experience using **C#, Python, Haskell**
 
-- 🌱 I’m currently learning **Java, Java spring**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
 - 📝 Additional skills **Git, SQL**
 
-- ⚡ I’m currently working on **a tournament tracker built in C#**
+- ⚡ I’m currently working on **a personal website project**
 
 - 🔭 Looking for full-time employment this summer and part-time for the rest of the year
 
