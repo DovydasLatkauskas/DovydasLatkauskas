@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dovydas</h1>
 <h3 align="center">A Lithuanian computer science student at the University of Edinburgh</h3>
 
-- 👨‍💻 Experience using **C#, Python, Haskell**
+- 👨‍💻 Experience using **C#, Python, Java**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
