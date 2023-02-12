@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
-- 📝 Additional skills **Git, SQL**
+- 📝 Additional skills **Git, Linux, Bash, SQL**
 
 - ⚡ I’m currently working on **a personal website project**
 
