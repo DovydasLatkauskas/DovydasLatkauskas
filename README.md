@@ -7,7 +7,7 @@
 
 - 📝 Additional skills **Git, SQL, REST API, Linux, Bash**
 
-- 🔭 Looking for employment: **full-time employment during the summer and part-time for the rest of the year**
+- 🔭 Looking for employment: **full-time during the summer and part-time for the rest of the year**
 
 <p align="left">
 </p>
