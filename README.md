@@ -7,7 +7,8 @@
 
 - 📝 Additional skills **Git, SQL, REST API, Linux, Bash**
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Looking for employment: **full-time employment during the summer and part-time for the rest of the year**
+
 <p align="left">
 </p>
 
