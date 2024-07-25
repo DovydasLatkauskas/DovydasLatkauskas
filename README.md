@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dovydas</h1>
 <h3 align="center">Full-stack developer and Computer Science student at the university of Edinburgh</h3>
 
-- 👨‍💻 Experience using **C#, Java, Python, Javascript, CSS, HTML**
+- 👨‍💻 Experience using **C#, C, Python, JavaScript, CSS, HTML**
 
-- 🌱 I’m currently learning **improving my C#, Java and Python skills**
+- 🌱 I’m currently learning **improving my C# and C skills**
 
 - 📝 Additional skills **Git, SQL, REST API, Linux, Bash, Docker**
 
