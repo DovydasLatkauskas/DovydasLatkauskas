@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **improving my C# and C skills**
 
-- 📝 Additional skills **Git, SQL, REST API, Linux, Bash, Docker**
+- 📝 Additional skills **PostgreSQL, Linux, hosting, CI/CD, Bash, Docker, Docker Compose**
 
 P.S. this page isn't updated frequently
 
