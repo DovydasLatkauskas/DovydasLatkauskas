@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dovydas</h1>
 <h3 align="center">Backend developer and Computer Science student at the University of Edinburgh</h3>
 
-- 🌱 I’m currently learning **Optimising low-level systems, server hosting and security, networking**
+- 🌱 I’m currently learning **Optimising low-level systems, networking, server hosting and security**
 
 - 📝 Additional skills **PostgreSQL, Linux hosting, Docker Compose, CI/CD, AWS**
 
