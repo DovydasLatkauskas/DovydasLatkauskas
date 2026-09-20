@@ -7,7 +7,7 @@
   under load.
 
 
-  ### Featured projects: Stock Exchange
+  ### Featured project: Stock Exchange
 
   A C++ stock-exchange project built to explore matching-engine design, network
   programming, concurrency, and market-data distribution.
