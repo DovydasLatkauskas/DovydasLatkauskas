@@ -1,6 +1,26 @@
-<h1 align="center">Hi 👋, I'm Dovydas</h1>
-<h3 align="center">Backend developer and Computer Science student at the University of Edinburgh</h3>
+# Hi, I'm Dovydas
 
-- I'm passionate about systems engineering, high-performance applications, operating systems and related topics
+  I'm a software engineer interested in C++, backend systems, networking,
+  and performance-critical infrastructure.
 
-- Check out my stock exchange project!
+  I enjoy working close to the operating system, tinkering with the linux kernel, and understanding how systems behave
+  under load.
+
+
+  ### Featured projects: Stock Exchange
+
+  A C++ stock-exchange project built to explore matching-engine design, network
+  programming, concurrency, and market-data distribution.
+  
+[source code repository](https://github.com/DovydasLatkauskas/hperf_stock_exchange)
+
+  ## Technical focus
+
+  - **Languages:** C++, C, Python, C#, Java, SQL
+  - **Systems:** Linux, TCP/IP, concurrency, data driven design
+
+  ## Currently exploring
+
+  - Low-latency and high-throughput system design
+  - Modern C++ performance engineering
+  - Network protocols and database design
